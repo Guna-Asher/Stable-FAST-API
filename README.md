@@ -1,4 +1,4 @@
-# 🧠 Stable-FAST-API
+# 🧠 Stable-Diffusion
 
 A lightweight, modular API for generating images using Stable Diffusion via Hugging Face's Diffusers library. Built with FastAPI, this project is designed for speed, scalability, and secure access.
 
